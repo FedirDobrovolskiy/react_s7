@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "lab1-dobrov-8cd1b",
     "public": "public",
     "ignore": [
       "firebase.json",
@@ -14,3 +15,4 @@
     ]
   }
 }
+
